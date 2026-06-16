@@ -1,0 +1,18 @@
+Es fundamental que las plataformas tecnológicas comunitarias funcionen de manera 
+estable y segura en un servidor porque de ello depende la confianza y continuidad 
+de la participación de sus usuarios:
+
+Seguridad de la información: Los servidores protegen datos sensibles de la 
+comunidad, evitando filtraciones, suplantaciones o ataques que puedan afectar 
+la credibilidad del espacio.
+
+Estabilidad operativa: Un servidor estable garantiza que las funciones 
+(foros, reportes, consultas) estén disponibles sin interrupciones, lo que permite 
+que las actividades comunitarias se desarrollen de forma fluida.
+
+Confianza y participación: Cuando los usuarios perciben que la plataforma es 
+segura y confiable, se animan a participar más activamente en procesos colaborativos.
+
+Transparencia y trazabilidad: La seguridad y estabilidad permiten registrar 
+acciones y accesos, lo que facilita auditar procesos y fortalecer la soberanía 
+tecnológica de la comunidad.
